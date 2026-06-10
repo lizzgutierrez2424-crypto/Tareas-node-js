@@ -1,0 +1,8 @@
+Pregunta 1: ¿Qué hace app.use(express.json()) en una aplicación Express?
+Respuesta: B) Permite que el servidor entienda y procese datos JSON enviados en el body de las peticiones.
+Pregunta 2: ¿Qué representa req.body en una ruta POST de Express?
+Respuesta: B) Un objeto que contiene los datos enviados por el cliente en el cuerpo de la petición.
+Pregunta 3: ¿Para qué sirve res.json() en Express?
+Respuesta: B) Para enviar una respuesta al cliente en formato JSON.
+Pregunta 4: ¿Cuál es el código de estado HTTP que indica que una petición fue exitosa?
+Respuesta: C) 200 OK

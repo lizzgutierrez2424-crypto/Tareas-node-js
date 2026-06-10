@@ -1,0 +1,3 @@
+En esta semana aprendí a configurar un servidor Express que procesa datos en formato JSON enviados desde el cliente usando POST. Entendí que express.json() es el middleware que convierte el texto JSON en un objeto de JavaScript accesible con req.body.
+Esto es clave para el proyecto Smart Community porque permite que los vecinos envíen reportes de incidencias, registros y mensajes a través de formularios web. El servidor recibe esa información, la procesa y puede guardarla o responder confirmando que llegó bien.
+Lo más importante fue entender la diferencia entre GET y POST: GET sirve para pedir datos y POST para enviar datos nuevos al servidor.
