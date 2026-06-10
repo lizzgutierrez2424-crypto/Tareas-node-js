@@ -1,0 +1,5 @@
+En esta semana aprendí a crear un servidor básico con Express y definir rutas GET y POST. 
+El método GET me sirvió para consultar todos los reportes registrados, y el POST para agregar 
+nuevos reportes enviando datos en formato JSON. Entendí que Express simplifica mucho el 
+manejo de peticiones HTTP comparado con usar solo Node.js nativo. También aprendí a probar 
+mis endpoints usando Thunder Client y a entender cómo el servidor recibe y responde datos.

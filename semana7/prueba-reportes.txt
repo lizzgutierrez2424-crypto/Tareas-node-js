@@ -1,0 +1,22 @@
+PRUEBA 1 - GET /reportes
+URL: http://localhost:3000/reportes
+Método: GET
+Respuesta del servidor: []
+
+PRUEBA 2 - POST /reportes
+URL: http://localhost:3000/reportes
+Método: POST
+Body enviado: 
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+Respuesta del servidor:
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}

@@ -1,0 +1,8 @@
+Pregunta 1: ¿Qué método HTTP se utiliza para consultar datos en un servidor?
+Respuesta: B) GET
+Pregunta 2: ¿Qué hace app.use(express.json()) en Express?
+Respuesta: B) Permite que el servidor entienda datos en formato JSON
+Pregunta 3: ¿Cuál es la función del método POST en una API REST?
+Respuesta: B) Enviar datos al servidor para crear un nuevo recurso
+Pregunta 4: ¿Qué devuelve res.json() en Express?
+Respuesta: B) Envía una respuesta en formato JSON al cliente
