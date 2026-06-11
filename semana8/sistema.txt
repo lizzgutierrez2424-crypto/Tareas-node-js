@@ -1,0 +1,8 @@
+Comando uname -a:
+Linux localhost 5.15.189-android13-8-00013-gaa2747a3794a-ab14413887 #1 SMP PREEMPT Mon Nov 10 02:47:23 UTC 2025 aarch64 Android
+
+Comando whoami:
+u0_a423
+
+¿Por qué es útil conocer información del sistema?
+Es importante porque al administrar un servidor necesito saber qué versión de Linux uso, qué arquitectura tiene y con qué usuario estoy trabajando. Esto ayuda a instalar software compatible, dar permisos correctos y detectar problemas de seguridad.
