@@ -1,0 +1,5 @@
+Sistema operativo: Es la base que permite ejecutar Node.js y gestionar los recursos del celular como memoria y red.
+Node.js: Es el entorno que ejecuta el código JavaScript del servidor fuera del navegador.
+Aplicación server.js: Es el programa que define las rutas y la lógica de qué responder en cada petición.
+Puerto: Es el número 3000 por donde el servidor escucha y recibe las solicitudes del navegador.
+Logs: Son los mensajes que aparecen en la terminal como 'Servidor ejecutándose' que sirven para monitorear y detectar errores.
