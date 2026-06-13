@@ -1,0 +1,1 @@
+Este servidor usa Express para crear 2 rutas: / que devuelve texto y /estado que devuelve JSON.

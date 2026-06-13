@@ -1,0 +1,11 @@
+Pregunta 1: ¿Qué es un servidor en informática?
+Respuesta: B - Programa o dispositivo que ofrece servicios a otros dispositivos llamados clientes.
+
+Pregunta 2: ¿Qué hace Node.js en un servidor?
+Respuesta: B - Permite ejecutar código JavaScript en el servidor para manejar solicitudes y respuestas.
+
+Pregunta 3: ¿Cuál es la función principal de un puerto en un servidor?
+Respuesta: B - Identificar un canal específico por donde se comunican las aplicaciones y servicios.
+
+Pregunta 4: ¿Qué ocurre cuando ejecutas node server.js en la terminal?
+Respuesta: A - Se inicia el servidor y queda esperando peticiones en el puerto especificado.

@@ -1,0 +1,1 @@
+Para ejecutar: node server.js. Luego abrir en navegador localhost:3000 y localhost:3000/estado
